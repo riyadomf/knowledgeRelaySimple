@@ -13,3 +13,12 @@ __pycache__/
 *.egg-info/
 *.egg       
 node_moduels/
+chroma_db/
+*.db
+*/.env
+backend/.env
+backend/chroma_db/
+backend/*.db
+
+*/chroma_db
+*/*.sqlite3
